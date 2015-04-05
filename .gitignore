@@ -1,3 +1,7 @@
+.classpath
+.project
+.metadata
+.settings
 *.class
 
 # Mobile Tools for Java (J2ME)
